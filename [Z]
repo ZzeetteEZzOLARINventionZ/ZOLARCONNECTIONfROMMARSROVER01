@@ -1,0 +1,2463 @@
+ 
+Source Code Online Home Categories Top Code New Code Submit Code 
+  
+
+
+Search
+
+
+
+
+ 
+ 
+
+ 
+
+Code Directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+New Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Search
+
+
+ Code To Add Url 
+ Photo Add Comment Php 
+ Mini Projects On Computer Graphics Using Opengl 
+ Website Value 
+ Mobile Dialer Operator Code 
+ Free Html Projects 
+ Compiler Design Viva Questions And Answers 
+ Duplicate Bill Of Electricity Of Best In Mumbai 
+ Guestbook In Php 
+ Dirty Word 
+ Carpooling Website Php 
+ Final Year Computer Science Projects 
+ Message On Php 
+ Maple Story 
+ Simple Er Diagram With Create Table Codes 
+ 
+
+
+Related Search
+
+
+ Source Code Of Electricity Billing In C 
+ Source Code Of Electricity Bill In C 
+ Source Code Of Hotel Reservation In C Programming 
+ Source Code Of Hotel Management In C 
+ Source Code Of Hangman Game In C 
+ Source Code Of Student Database In C 
+ Source Code Of Hospital Managemwnt In C 
+ Source Code Of Scientific Calculator In C 
+ Source Code Of Hospital Managemant In C 
+ Source Code Of Hotel Management In C Language 
+ Complete Source Code Of Student Record In C 
+ Source Code Of Moving Car In C 
+ Source Code Of Huffman Coding In C 
+ Source Code Of Result Mangement In C 
+ Source Code Of Data Compression In C 
+ 
+  
+
+ Source Code Of Electricity Billing In C 
+Ad Blocker Code - Add Code Tgp - Adios Java Code - Adpcm Source - Aim Smiles Code - Aliveglow Code - Ames Code 
+
+
+Code 1-20 of 60   Pages: Go to  1  2  3  Next >>  page   
+
+
+  
+
+
+
+
+
+LineMagic 1.0 - Linemagic
+
+Development / User Interfaces
+
+LineMagic is a generic source code simple tool written in c++ with wxWidgets library. it can be used to count code lines, empty lines, comment lines of well-known language and user-specified language.
+
+--------------------------------------------------------------------------------
+
+
+
+Boxing and Unboxing of Value Types in... - Stuart Fujitani
+
+ASP.NET / Tips and Tutorials / Miscellaneous
+
+
+Boxing and Unboxing of Value Types in C#: What You Need to Know? is a web based tutorial in which author elaborates the concepts of boxing and unboxing value types. The author also explains the problem that occur while programming boxing and...
+
+--------------------------------------------------------------------------------
+
+
+
+Usage of Operator Overloading in C# - Prasad
+
+ASP.NET / Tips and Tutorials / Scripting Techniques
+
+
+Usage of Operator Overloading in C# is a tutorial for the beginners to know about the operator overloading feature in C#. Operator overloading is an object oriented feature which does not affect the actual meaning of the in-built operators of C#....
+
+--------------------------------------------------------------------------------
+
+
+
+Inno Setup Source Code 5.1.6 - Jordan Russell
+
+Delphi / Installation Tools
+
+
+Source code of Inno Setup - free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
+
+--------------------------------------------------------------------------------
+
+
+
+Source Code Scanners for C++ Builder... - MBLabSoft
+
+Delphi / Miscellaneous
+
+
+Source Code Scanners is the high performance library of visual components for C++ Builder and Delphi intended for creating analyzers and parsers of source codes.It includes components of the lexical analyzers: C++, Object Pascal (Delphi), PHP,...
+
+--------------------------------------------------------------------------------
+
+
+
+Fast Fourier Transform Algorithm 1.0 - Farhat Masood
+
+Tools / Build Tools
+
+
+This program is open source code of fast Fourier transform in matlab.
+Where y is the input argument and p is the normalized size of the input. Let
+y = [1 2 3 4 ];
+x= length(y);
+m= log2(x);
+p= ceil(m);
+To call the...
+
+--------------------------------------------------------------------------------
+
+
+
+cpp-quant b.0.1 - Cppquant
+
+Development / Libraries
+
+
+The project contains classes for implementation of binomial option pricing model and Newton method for finding roots of a function in C++.
+
+You are welcome to browse and download the source code.
+
+--------------------------------------------------------------------------------
+
+
+
+Learning Based Digital Matting 1.0 - Yuanjie Zheng
+
+Tools / Development Tools
+
+
+This package contains the major source code of a demo for our learning based digital image matting technique (as detailed in the below paper).
+
+@InProceedings{ZhengICCV09,
+ author = {Yuanjie Zheng and Chandra Kambhamettu},
+...
+
+--------------------------------------------------------------------------------
+
+
+
+PyText 1.0 - Pytext
+
+Tools / Development Tools
+
+
+Built in python, built upon the source code of Pyword. this program offer a more powerful enriched environment for coding, html work or simply a text editor.
+
+--------------------------------------------------------------------------------
+
+
+
+The Pliant project 93 - Pliant
+
+Tools / Compilers
+
+
+Project for a coherent minimal set of tools, in a source code of small size using Pliant language (that focuses on pertinent indications, although allowing programmer's intervention at any level of abstraction and any general rule explicit...
+
+--------------------------------------------------------------------------------
+
+
+
+MagicFire - Model Driven Development 1.0 - Magicfire
+
+Tools / Code Generators
+
+
+MagicFire is an open source code generation platform written in Sybase Powerbuilder allowing code generation in any choosen target language including PHP, JAVA, C/C++.
+
+--------------------------------------------------------------------------------
+
+
+
+Box Social 1.0 - boxsocial.net
+
+Development / Frameworks
+
+
+Box Social is a piece of Open Source Social Networking software written in c# for the Microsoft .NET/mono platform.
+
+--------------------------------------------------------------------------------
+
+
+
+JaWOGRE 1.0 - Jawogre
+
+Development / Frameworks
+
+
+JawOgre is an automation tool to generate source code of a Java JNI interface to use OGRE API in Java applications.
+
+--------------------------------------------------------------------------------
+
+
+
+Fast expression evaluator 1.1 - Nikolay Igotti
+
+C/C++ / Development Tools
+
+
+This code provides you a pluggable library for fast computation of mathematical expressions in C programs with x86 JIT compiler.
+
+--------------------------------------------------------------------------------
+
+
+
+Native XML Database for .NET 1.0 - Nxmldb
+
+Tools / Servers
+
+
+XmlDBSharp is an Open Source native XML database implemented in C# for the .NET platform featuring XPath and XQuery processing across collections of XML documents, automatic indexing, Xupdate support and document versioning.
+
+--------------------------------------------------------------------------------
+
+
+
+XmlDB Sharp 1.0 - Xmldbsharp
+
+Tools / Servers
+
+
+XmlDBSharp is an Open Source native XML database implemented in C# for the .NET platform featuring XPath and XQuery processing across collections of XML documents, automatic indexing, Xupdate support and document versioning.
+
+--------------------------------------------------------------------------------
+
+
+
+SynthEdit VST Modules 1.0 - Syntheditmods
+
+Development / Frameworks
+
+
+This project will provide open source high level, modules, written in C++, for use with the SynthEdit VST creator. Emphasis will be placed on quality of sound, and real-time performance.
+
+--------------------------------------------------------------------------------
+
+
+
+Use of DATE Jargon in C# - Prasad H.
+
+ASP.NET / Tips and Tutorials / Date and Time
+
+
+This article is to display the calendar of the present month or any other month, even for any years. There is no necessity to search your old diary or calender for the exact dates and months of any particular month and year. Use of DATE Jargon in...
+
+--------------------------------------------------------------------------------
+
+
+
+QwtScope 1.0 - Ronald Tammepold
+
+Tools / Development Tools
+
+
+This is (source code of) a Simulink plotting tool similar to standard Simulink Scope.
+This is a Simulink plotting tool similar to standard Simulink Scope, but it has the feature of switching individual curves on and off while looking at the...
+
+--------------------------------------------------------------------------------
+
+
+
+getHWnd - retrieve the underlying... - Yair Altman
+
+Python / Multimedia
+
+
+
+HWnd = GETHWND retrieves the current figure (gcf)'s underlying Windows handle, thus enabling integration of Matlab GUI in C/C++/C# programs.
+
+HWnd = GETHWND(hFig) retrieves a specific figure's underlying Windows handle. hFig is a...
+ 
+ 
+  
+Home | Submit Code | Top Code Search | Last Code Search | Privacy Policy | Link to Us | Contact  
+  
+
+
+©1983-3000(c)foreverOWNER_adrian.orozco.jimenez.acosta.gamez(c)
+ we do not provide any hacked, cracked, illegal, pirated version of scripts, codes, components downloads. Your file servers or download mirrors. Always Virus check files downloaded from the web specially zip, rar, exe, trial, full versions etc. Download links from rapidshare, depositfiles, megaupload etc not published.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   http://wistia.com/about-wistia?about/u/0/
+   
+   
+
+
+We respect your privacy and never share your information. And of course you can opt-out at any time you wish: Privacy
+
+
+Sign-up now for a free 30-day trial
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customers that already trust Collaborator:
+
+
+Start Your 30-Day Free Trial Today >>
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+ 
+
+
+
+
+
+*
+Work Email:
+
+
+
+
+
+
+
+
+*
+First Name:
+
+
+
+
+
+
+
+
+*
+Last Name:
+
+
+
+
+
+
+
+
+*
+Company:
+
+
+
+
+
+
+
+
+*
+Country:
+Select...AfghanistanÅland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivia, Plurinational State ofBonaire, Sint Eustatius and SabaBosnia And HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCongo, The Democratic Republic of theCook IslandsCosta RicaCôte DivoireCroatiaCubaCuraçaoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHoly See (Vatican City State)HondurasHong KongHungaryIcelandIndiaIndonesiaIran, Islamic Republic ofIraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic Peoples Republic ofKorea, Republic ofKuwaitKyrgyzstanLao Peoples Democratic RepublicLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMacedonia, The Former Yugoslav Republic ofMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesia, Federated States ofMoldova, Republic ofMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPalestine, State ofPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRéunionRomaniaRussian FederationRwandaSaint BarthélemySaint Helena, Ascension and Tristan Da CunhaSaint Kitts and NevisSaint LuciaSaint Martin (French Part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint Maarten (Dutch Part)SlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwan, Province of ChinaTajikistanTanzania, United Republic ofThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUnited States Minor Outlying IslandsUruguayUzbekistanVanuatuVenezuela, Bolivarian Republic OfViet NamVirgin Islands, BritishVirgin Islands, U.S.Wallis and FutunaWestern SaharaYemenZambiaZimbabwe
+
+
+
+
+
+
+
+*
+State:
+AAAEAPAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWY
+
+
+
+
+
+
+
+*
+Phone:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download Trial
+  
+◦Increase Collaboration Across Teams — Regardless of Location
+◦Fix Defects Before They Reach QA or the Customer
+◦Manage Both Code and Document Review
+◦Create Higher Quality Code
+◦Customizable Workflows and Extensive Metrics 
+◦Best In-Class Support
+
+
+Collaborator helps development, testing and management teams work together to produce high quality code. It allows teams to peer review code, user stories and test plans in a transparent, collaborative framework, instantly keeping the entire team up to speed on changes made to the code. By enabling team members to work together to review their work, Collaborator can help you catch bugs before your software hits the market.
+
+Simply put, Collaborator helps you and your development team create high-quality software — regardless of where your team members are located.
+
+
+Why Use Collaborator?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Collaborator Logo
+line
+
+ 
+  
+
+
+
+
+
+About SmartBear Software:
+ More than one million developers, testers and operations professionals use SmartBear tools to ensure the quality and performance of their APIs, desktop, mobile, Web and cloud-based applications. SmartBear products are easy to use and deploy, are affordable and available for trial at the website. Learn more about SmartBear, the company’s award-winning tools or join the active user community at www.smartbear.com, on Facebook or follow us on Twitter @smartbear or Google+.
+
+
+    
+
+ 
+
+
+
+
+
+ 
+Source Code Online Home Categories Top Code New Code Submit Code 
+  
+
+
+Search
+
+
+
+
+ 
+ 
+
+ 
+
+Code Directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+New Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Search
+
+
+ Code To Add Url 
+ Photo Add Comment Php 
+ Mini Projects On Computer Graphics Using Opengl 
+ Website Value 
+ Mobile Dialer Operator Code 
+ Free Html Projects 
+ Compiler Design Viva Questions And Answers 
+ Duplicate Bill Of Electricity Of Best In Mumbai 
+ Guestbook In Php 
+ Dirty Word 
+ Carpooling Website Php 
+ Final Year Computer Science Projects 
+ Message On Php 
+ Maple Story 
+ Simple Er Diagram With Create Table Codes 
+ 
+
+
+Related Search
+
+
+ Source Code Of Electricity Billing In C 
+ Source Code Of Electricity Bill In C 
+ Source Code Of Hotel Reservation In C Programming 
+ Source Code Of Hotel Management In C 
+ Source Code Of Hangman Game In C 
+ Source Code Of Student Database In C 
+ Source Code Of Hospital Managemwnt In C 
+ Source Code Of Scientific Calculator In C 
+ Source Code Of Hospital Managemant In C 
+ Source Code Of Hotel Management In C Language 
+ Complete Source Code Of Student Record In C 
+ Source Code Of Moving Car In C 
+ Source Code Of Huffman Coding In C 
+ Source Code Of Result Mangement In C 
+ Source Code Of Data Compression In C 
+ 
+  
+
+ Source Code Of Electricity Billing In C 
+Ad Blocker Code - Add Code Tgp - Adios Java Code - Adpcm Source - Aim Smiles Code - Aliveglow Code - Ames Code 
+
+
+Code 1-20 of 60   Pages: Go to  1  2  3  Next >>  page   
+
+
+  
+
+
+
+
+
+LineMagic 1.0 - Linemagic
+
+Development / User Interfaces
+
+LineMagic is a generic source code simple tool written in c++ with wxWidgets library. it can be used to count code lines, empty lines, comment lines of well-known language and user-specified language.
+
+--------------------------------------------------------------------------------
+
+
+
+Boxing and Unboxing of Value Types in... - Stuart Fujitani
+
+ASP.NET / Tips and Tutorials / Miscellaneous
+
+
+Boxing and Unboxing of Value Types in C#: What You Need to Know? is a web based tutorial in which author elaborates the concepts of boxing and unboxing value types. The author also explains the problem that occur while programming boxing and...
+
+--------------------------------------------------------------------------------
+
+
+
+Usage of Operator Overloading in C# - Prasad
+
+ASP.NET / Tips and Tutorials / Scripting Techniques
+
+
+Usage of Operator Overloading in C# is a tutorial for the beginners to know about the operator overloading feature in C#. Operator overloading is an object oriented feature which does not affect the actual meaning of the in-built operators of C#....
+
+--------------------------------------------------------------------------------
+
+
+
+Inno Setup Source Code 5.1.6 - Jordan Russell
+
+Delphi / Installation Tools
+
+
+Source code of Inno Setup - free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
+
+--------------------------------------------------------------------------------
+
+
+
+Source Code Scanners for C++ Builder... - MBLabSoft
+
+Delphi / Miscellaneous
+
+
+Source Code Scanners is the high performance library of visual components for C++ Builder and Delphi intended for creating analyzers and parsers of source codes.It includes components of the lexical analyzers: C++, Object Pascal (Delphi), PHP,...
+
+--------------------------------------------------------------------------------
+
+
+
+Fast Fourier Transform Algorithm 1.0 - Farhat Masood
+
+Tools / Build Tools
+
+
+This program is open source code of fast Fourier transform in matlab.
+Where y is the input argument and p is the normalized size of the input. Let
+y = [1 2 3 4 ];
+x= length(y);
+m= log2(x);
+p= ceil(m);
+To call the...
+
+--------------------------------------------------------------------------------
+
+
+
+cpp-quant b.0.1 - Cppquant
+
+Development / Libraries
+
+
+The project contains classes for implementation of binomial option pricing model and Newton method for finding roots of a function in C++.
+
+You are welcome to browse and download the source code.
+
+--------------------------------------------------------------------------------
+
+
+
+Learning Based Digital Matting 1.0 - Yuanjie Zheng
+
+Tools / Development Tools
+
+
+This package contains the major source code of a demo for our learning based digital image matting technique (as detailed in the below paper).
+
+@InProceedings{ZhengICCV09,
+ author = {Yuanjie Zheng and Chandra Kambhamettu},
+...
+
+--------------------------------------------------------------------------------
+
+
+
+PyText 1.0 - Pytext
+
+Tools / Development Tools
+
+
+Built in python, built upon the source code of Pyword. this program offer a more powerful enriched environment for coding, html work or simply a text editor.
+
+--------------------------------------------------------------------------------
+
+
+
+The Pliant project 93 - Pliant
+
+Tools / Compilers
+
+
+Project for a coherent minimal set of tools, in a source code of small size using Pliant language (that focuses on pertinent indications, although allowing programmer's intervention at any level of abstraction and any general rule explicit...
+
+--------------------------------------------------------------------------------
+
+
+
+MagicFire - Model Driven Development 1.0 - Magicfire
+
+Tools / Code Generators
+
+
+MagicFire is an open source code generation platform written in Sybase Powerbuilder allowing code generation in any choosen target language including PHP, JAVA, C/C++.
+
+--------------------------------------------------------------------------------
+
+
+
+Box Social 1.0 - boxsocial.net
+
+Development / Frameworks
+
+
+Box Social is a piece of Open Source Social Networking software written in c# for the Microsoft .NET/mono platform.
+
+--------------------------------------------------------------------------------
+
+
+
+JaWOGRE 1.0 - Jawogre
+
+Development / Frameworks
+
+
+JawOgre is an automation tool to generate source code of a Java JNI interface to use OGRE API in Java applications.
+
+--------------------------------------------------------------------------------
+
+
+
+Fast expression evaluator 1.1 - Nikolay Igotti
+
+C/C++ / Development Tools
+
+
+This code provides you a pluggable library for fast computation of mathematical expressions in C programs with x86 JIT compiler.
+
+--------------------------------------------------------------------------------
+
+
+
+Native XML Database for .NET 1.0 - Nxmldb
+
+Tools / Servers
+
+
+XmlDBSharp is an Open Source native XML database implemented in C# for the .NET platform featuring XPath and XQuery processing across collections of XML documents, automatic indexing, Xupdate support and document versioning.
+
+--------------------------------------------------------------------------------
+
+
+
+XmlDB Sharp 1.0 - Xmldbsharp
+
+Tools / Servers
+
+
+XmlDBSharp is an Open Source native XML database implemented in C# for the .NET platform featuring XPath and XQuery processing across collections of XML documents, automatic indexing, Xupdate support and document versioning.
+
+--------------------------------------------------------------------------------
+
+
+
+SynthEdit VST Modules 1.0 - Syntheditmods
+
+Development / Frameworks
+
+
+This project will provide open source high level, modules, written in C++, for use with the SynthEdit VST creator. Emphasis will be placed on quality of sound, and real-time performance.
+
+--------------------------------------------------------------------------------
+
+
+
+Use of DATE Jargon in C# - Prasad H.
+
+ASP.NET / Tips and Tutorials / Date and Time
+
+
+This article is to display the calendar of the present month or any other month, even for any years. There is no necessity to search your old diary or calender for the exact dates and months of any particular month and year. Use of DATE Jargon in...
+
+--------------------------------------------------------------------------------
+
+
+
+QwtScope 1.0 - Ronald Tammepold
+
+Tools / Development Tools
+
+
+This is (source code of) a Simulink plotting tool similar to standard Simulink Scope.
+This is a Simulink plotting tool similar to standard Simulink Scope, but it has the feature of switching individual curves on and off while looking at the...
+
+--------------------------------------------------------------------------------
+
+
+
+getHWnd - retrieve the underlying... - Yair Altman
+
+Python / Multimedia
+
+
+
+HWnd = GETHWND retrieves the current figure (gcf)'s underlying Windows handle, thus enabling integration of Matlab GUI in C/C++/C# programs.
+
+HWnd = GETHWND(hFig) retrieves a specific figure's underlying Windows handle. hFig is a...
+ 
+ 
+  
+Home | Submit Code | Top Code Search | Last Code Search | Privacy Policy | Link to Us | Contact  
+  
+
+
+© Copyright 2000-2015 Source Code Online. Free Source Code and Scripts Downloads.
+
+
+ All files and free downloads are copyright of their respective owners. We do not provide any hacked, cracked, illegal, pirated version of scripts, codes, components downloads. All files are downloaded from the publishers website, our file servers or download mirrors. Always Virus check files downloaded from the web specially zip, rar, exe, trial, full versions etc. Download links from rapidshare, depositfiles, megaupload etc not published.  
+ 
+Source Code Online Home Categories Top Code New Code Submit Code 
+  
+
+
+Search
+
+
+
+
+ 
+ 
+
+ 
+
+Code Directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+New Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Search
+
+
+ Code To Add Url 
+ Photo Add Comment Php 
+ Mini Projects On Computer Graphics Using Opengl 
+ Website Value 
+ Mobile Dialer Operator Code 
+ Free Html Projects 
+ Compiler Design Viva Questions And Answers 
+ Duplicate Bill Of Electricity Of Best In Mumbai 
+ Guestbook In Php 
+ Dirty Word 
+ Carpooling Website Php 
+ Final Year Computer Science Projects 
+ Message On Php 
+ Maple Story 
+ Simple Er Diagram With Create Table Codes 
+ 
+
+
+Related Search
+
+
+ Source Code Of Data Compression In C 
+ Source Code Of Data Structure In C Only 
+ Source Code Of Data Compression In Java 
+ Source Code Of Hotel Reservation In C Programming 
+ Source Code Of Hotel Management In C 
+ Source Code Of Hangman Game In C 
+ Source Code Of Student Database In C 
+ Source Code Of Hospital Managemwnt In C 
+ Source Code Of Scientific Calculator In C 
+ Source Code Of Hospital Managemant In C 
+ Source Code Of Hotel Management In C Language 
+ Complete Source Code Of Student Record In C 
+ Source Code Of Moving Car In C 
+ Source Code Of Huffman Coding In C 
+ Source Code Of Result Mangement In C 
+ 
+  
+
+ Source Code Of Data Compression In C 
+Ad Blocker Code - Add Code Tgp - Address Data - Adios Java Code - Adpcm Source - Aim Smiles Code - Aliveglow Code 
+
+
+Code 1-20 of 60   Pages: Go to  1  2  3  Next >>  page   
+
+
+  
+
+
+
+
+
+LineMagic 1.0 - Linemagic
+
+Development / User Interfaces
+
+LineMagic is a generic source code simple tool written in c++ with wxWidgets library. it can be used to count code lines, empty lines, comment lines of well-known language and user-specified language.
+
+--------------------------------------------------------------------------------
+
+
+
+CDataStruct 1.0 - Cdynamiclist
+
+Development / Libraries
+
+
+An implementation of data structures in C, for now there is a a dynamic list and stack, the rest are to come.
+
+--------------------------------------------------------------------------------
+
+
+
+Boxing and Unboxing of Value Types in... - Stuart Fujitani
+
+ASP.NET / Tips and Tutorials / Miscellaneous
+
+
+Boxing and Unboxing of Value Types in C#: What You Need to Know? is a web based tutorial in which author elaborates the concepts of boxing and unboxing value types. The author also explains the problem that occur while programming boxing and...
+
+--------------------------------------------------------------------------------
+
+
+
+Usage of Operator Overloading in C# - Prasad
+
+ASP.NET / Tips and Tutorials / Scripting Techniques
+
+
+Usage of Operator Overloading in C# is a tutorial for the beginners to know about the operator overloading feature in C#. Operator overloading is an object oriented feature which does not affect the actual meaning of the in-built operators of C#....
+
+--------------------------------------------------------------------------------
+
+
+
+Inno Setup Source Code 5.1.6 - Jordan Russell
+
+Delphi / Installation Tools
+
+
+Source code of Inno Setup - free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
+
+--------------------------------------------------------------------------------
+
+
+
+Source Code Scanners for C++ Builder... - MBLabSoft
+
+Delphi / Miscellaneous
+
+
+Source Code Scanners is the high performance library of visual components for C++ Builder and Delphi intended for creating analyzers and parsers of source codes.It includes components of the lexical analyzers: C++, Object Pascal (Delphi), PHP,...
+
+--------------------------------------------------------------------------------
+
+
+
+Fast Fourier Transform Algorithm 1.0 - Farhat Masood
+
+Tools / Build Tools
+
+
+This program is open source code of fast Fourier transform in matlab.
+Where y is the input argument and p is the normalized size of the input. Let
+y = [1 2 3 4 ];
+x= length(y);
+m= log2(x);
+p= ceil(m);
+To call the...
+
+--------------------------------------------------------------------------------
+
+
+
+cpp-quant b.0.1 - Cppquant
+
+Development / Libraries
+
+
+The project contains classes for implementation of binomial option pricing model and Newton method for finding roots of a function in C++.
+
+You are welcome to browse and download the source code.
+
+--------------------------------------------------------------------------------
+
+
+
+Lightweight Data Structure Library 1.0 - Ldsl
+
+Development / Libraries
+
+
+This is a library implementing a number of different sorts of data structures in a modular fashion in C.
+
+--------------------------------------------------------------------------------
+
+
+
+Learning Based Digital Matting 1.0 - Yuanjie Zheng
+
+Tools / Development Tools
+
+
+This package contains the major source code of a demo for our learning based digital image matting technique (as detailed in the below paper).
+
+@InProceedings{ZhengICCV09,
+ author = {Yuanjie Zheng and Chandra Kambhamettu},
+...
+
+--------------------------------------------------------------------------------
+
+
+
+PyText 1.0 - Pytext
+
+Tools / Development Tools
+
+
+Built in python, built upon the source code of Pyword. this program offer a more powerful enriched environment for coding, html work or simply a text editor.
+
+--------------------------------------------------------------------------------
+
+
+
+MyDBemu 1.0 - Mydbemu
+
+Tools / Servers
+
+
+MyDBemu is a C++ Library which provides a 'database table'-like Data Type, and methods of data management in a SQL thought.
+
+--------------------------------------------------------------------------------
+
+
+
+The Pliant project 93 - Pliant
+
+Tools / Compilers
+
+
+Project for a coherent minimal set of tools, in a source code of small size using Pliant language (that focuses on pertinent indications, although allowing programmer's intervention at any level of abstraction and any general rule explicit...
+
+--------------------------------------------------------------------------------
+
+
+
+Binary to Header 1.0 - Bin2header
+
+Tools / Code Generators
+
+
+bin2header takes any file as an argument and converts its binary data into a source header file for use in C/C++ applications. The data is stored as a character array.
+
+--------------------------------------------------------------------------------
+
+
+
+MagicFire - Model Driven Development 1.0 - Magicfire
+
+Tools / Code Generators
+
+
+MagicFire is an open source code generation platform written in Sybase Powerbuilder allowing code generation in any choosen target language including PHP, JAVA, C/C++.
+
+--------------------------------------------------------------------------------
+
+
+
+libstructures 1.0.0 - Libstructures
+
+Development / Frameworks
+
+
+A library of standard data structures in C, similar to STL in C++. Includes variable-length arrays, deques, hashtables, avl trees, binary heaps, and many other useful structures, with a simple and intuitive interface.
+
+--------------------------------------------------------------------------------
+
+
+
+Box Social 1.0 - boxsocial.net
+
+Development / Frameworks
+
+
+Box Social is a piece of Open Source Social Networking software written in c# for the Microsoft .NET/mono platform.
+
+--------------------------------------------------------------------------------
+
+
+
+JaWOGRE 1.0 - Jawogre
+
+Development / Frameworks
+
+
+JawOgre is an automation tool to generate source code of a Java JNI interface to use OGRE API in Java applications.
+
+--------------------------------------------------------------------------------
+
+
+
+Fast expression evaluator 1.1 - Nikolay Igotti
+
+C/C++ / Development Tools
+
+
+This code provides you a pluggable library for fast computation of mathematical expressions in C programs with x86 JIT compiler.
+
+--------------------------------------------------------------------------------
+
+
+
+Native XML Database for .NET 1.0 - Nxmldb
+
+Tools / Servers
+
+
+XmlDBSharp is an Open Source native XML database implemented in C# for the .NET platform featuring XPath and XQuery processing across collections of XML documents, automatic indexing, Xupdate support and document versioning.
+ 
+ 
+  
+Home | Submit Code | Top Code Search | Last Code Search | Privacy Policy | Link to Us | Contact  
+  
+
+
+© Copyright 2000-2015 Source Code Online. Free Source Code and Scripts Downloads.
+
+
+ All files and free downloads are copyright of their respective owners. We do not provide any hacked, cracked, illegal, pirated version of scripts, codes, components downloads. All files are downloaded from the publishers website, our file servers or download mirrors. Always Virus check files downloaded from the web specially zip, rar, exe, trial, full versions etc. Download links from rapidshare, depositfiles, megaupload etc not published.  
+
+ 
+
+
+
+Wistia 
+
+Wistia helps you share and track your online video. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wistia Learning Center
+
+Your hub to teach, learn,
+and discuss video marketing
+Start Learning 
+
+Wistia Video Hosting
+
+Professional hosting & analytics,
+free forever.
+Get a free account   
+
+
+             
+             
+              
+Source Code Online Home Categories Top Code New Code Submit Code 
+  
+
+
+Search
+
+
+
+
+ 
+ 
+
+ 
+
+Code Directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+New Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Search
+
+
+ Code To Add Url 
+ Photo Add Comment Php 
+ Mini Projects On Computer Graphics Using Opengl 
+ Website Value 
+ Mobile Dialer Operator Code 
+ Free Html Projects 
+ Compiler Design Viva Questions And Answers 
+ Duplicate Bill Of Electricity Of Best In Mumbai 
+ Guestbook In Php 
+ Dirty Word 
+ Carpooling Website Php 
+ Message On Php 
+ Final Year Computer Science Projects 
+ Maple Story 
+ Simple Er Diagram With Create Table Codes 
+ 
+
+
+Related Search
+
+
+ Free Html Projects 
+ Free Html Projects With Source Coding 
+ Free Html Projects Source Codes 
+ Free Html Projects For Hotel Hall Booking Website 
+ Free Source Code Of Html Projects 
+ Html Projects Free Download 
+ Free Sample Html Projects 
+ Free Downloads Projects Html Php 
+ Free Download Html Projects 
+ Html Projects Free 
+ Free Html Based Projects 
+ Free Mini Html Projects 
+ Free Html Ecommerce Projects 
+ Free Download College Html Projects 
+ Free Download Html Projects For Onlineshoping 
+ 
+  
+
+ Free Html Projects 
+Activex Html - Activex Or Html - Advanced Html Toc - Aim Html Codes - All Html Colors - Anetto Html - Art Projects 
+
+
+Code 1-20 of 60   Pages: Go to  1  2  3  Next >>  page   
+
+
+  
+
+
+
+
+
+CoffeeCup Free HTML Editor 8.0 - CoffeeCup Software
+
+HTML / Software - Editors
+
+The CoffeeCup Free HTML Editor is a drag and drop HTML Editor with Built-in FTP uploading. It has wizards for tables, frames, forms and fonts and comes with all HTML 4.0 and XHTML tags. The Free version also includes wizards for images, links and a Quickstart so you can create web pages fast.
+
+--------------------------------------------------------------------------------
+
+
+
+Unmaintained Free Software 0.6.7 - Anonymous
+
+PHP / Miscellaneous
+
+
+Unmaintained Free Software is a wiki of unmaintained/orphaned/abandoned Free Software projects which are in need of a new maintainer.
+
+Note:
+Unmaintained Free Software is very old, obsolete and EXTREMELY INSECURE! Don't use it!
+
+--------------------------------------------------------------------------------
+
+
+
+MI3 HTML Editor 1.0beta1.2 - Mi3htmledit
+
+Development / Data Formats
+
+
+The MI3 HTML Editor is a free HTML editor that has multiple modes of previewing and HTML validation.
+
+--------------------------------------------------------------------------------
+
+
+
+RichTextEditor GM 1.0 - Richtexteditorg
+
+Development / Text Processing
+
+
+RichTextEditorGM is a free HTML WYSIWYG Text Editor made with javascript. Its engine was made base on a existing script (FreeRichTextEditor) that is now discontinued.
+
+--------------------------------------------------------------------------------
+
+
+
+Web Node Structure 0.91 - Wenost
+
+Development / Documentation
+
+
+Wenost simplifies the process of building and maintaining larger web sites by hand. Wenost is used in conjunction with PPWizard, a free HTML pre-processor. For examples of websites built with wenost see www.csem.org.uk and the wenost project website.
+
+--------------------------------------------------------------------------------
+
+
+
+c++ object visual enviroment 1.0 - Cove
+
+Development / Object Oriented
+
+
+COVE (C++ Object Visual Enviroment),make your runtime c++ objects to be visible on the web, built on gcc-xml(http://www.gcc-xml.org) and seal-reflex(http://seal-reflex.web.cern.ch/seal-reflex/index.html ) projects.
+
+--------------------------------------------------------------------------------
+
+
+
+CoffeeCup HTML Editor 2010 - CoffeeCup Software
+
+HTML / Software - Editors
+
+
+The CoffeeCup HTML Editor is 2 Editors in 1. If you know HTML or want to learn more use the powerful and easy Code Editor that has set the standard since 1996. To make pages fast, or without knowing HTML use the drag and drop WYSIWYG Visual...
+
+--------------------------------------------------------------------------------
+
+
+
+SelectPdf Html To Pdf Converter for... - SelectPdf
+
+Visual Basic & VB.NET / Visual Basic / Libraries
+
+
+SelectPdf Html To Pdf Converter - Community Edition is the free version of the powerful Html To Pdf Converter for .NET that can be found in the full featured pdf library Select.Pdf for .NET. SelectPdf works in every Windows system and Windows...
+
+--------------------------------------------------------------------------------
+
+
+
+Easy Projects .NET 5.0 - Logic Software
+
+ASP.NET / Software
+
+
+Easy Projects .NET is the easiest all-in-one web based Project Management System and Task Tracking software. It is called "Easy Projects" for a good reason - it was specifically designed to make project management and task tracking...
+
+--------------------------------------------------------------------------------
+
+
+
+Tigra Scroller for HTML Tools 1.5 - SoftComplex Inc.
+
+JavaScript / Development Scripts
+
+
+Tigra Scroller is free javascript widget for web sites that scrolls text or html in the box. Moving content saves the space on the page and attracts visitor's attention.
+
+Script is ideal for displaying long lists like hot news, events,...
+
+--------------------------------------------------------------------------------
+
+
+
+Simple Html Page Encoder 1.0 - Csaba Hatvany
+
+ASP / Miscellaneous
+
+
+is a free online HTML Encoder service provided by Windows Scripting Web Space at http://www.hatvany-online.net . You can find an article about the offline version of the service at http://www.hatvany-online.net/articles/art-002.htm. The article is...
+
+--------------------------------------------------------------------------------
+
+
+
+Quick HTML Color Picker 1.0 - Jun Yan
+
+Delphi / Graphical Controls
+
+
+Quick HTML Color Picker is a free Windows color picker tool. With Quick HTML Color Picker, you can easily pick any color from the screen. You can preview the color, use mouse or keyboard to select the color you wanted, and get the color in RGB and...
+
+--------------------------------------------------------------------------------
+
+
+
+EBook Maestro FREE 1.35 - eBookMaestro.com
+
+Delphi / Tools
+
+
+EBook Maestro FREE is a professional compiler of informational applications with a whole bunch of unique features. You can use eBook Maestro to create electronic books, documentation, galleries and other informational projects with fully...
+
+--------------------------------------------------------------------------------
+
+
+
+Soupermail for HTML Mail 1.0.8 - Vittal Aithal
+
+CGI/PERL / Email Systems
+
+
+Soupermail is a free, generic, highly configurable form to email CGI program.
+
+Soupermail is a generic HTML form handling script designed to provide a high degree of control over a form's behaviour and output.
+
+It provides the...
+
+--------------------------------------------------------------------------------
+
+
+
+Guestbook and Comment Box Freeware 1.0 - Anonymous
+
+PHP / Books
+
+
+Guestbook and Comment Box is a free and Open Source PHP guestbook projects. You can use it as a guestbook or comment box. This PHP guestbook script is designed with captcha to avoid spams and supports smiley.
+
+Features of PHP Guestbook...
+
+--------------------------------------------------------------------------------
+
+
+
+phpWarmSky 0.11.1 - Anonymous
+
+PHP / Miscellaneous
+
+
+phpWarmSky is a free and Open Source PHP CMS projects that provides a complete website content management system which includes over 40 modules and exactly 10 themes. phpWarmSky's growing amount of modules each allow for easy site...
+
+--------------------------------------------------------------------------------
+
+
+
+Kwala 0.9.1 - Zev Blut
+
+Tools / Development Tools
+
+
+Build tool to check Ruby projects for various quality metrics. Command line driven for easy use in cron jobs with static html output. Simple framework to develop new quality metrics for reporting.
+
+--------------------------------------------------------------------------------
+
+
+
+HTML Help Real Merging Tool 1.0 - Hhrmt
+
+Development / Documentation
+
+
+The HTML Help Real Merging Tool merges HTML help projects root and branch and enables the latter content reusing within the heaps of help files, which regular methods and Microsoft did not achieve. It facilitates the Help File readers and editors...
+
+--------------------------------------------------------------------------------
+
+
+
+Cnstats - Free Statistics - Jimaaaa
+
+CGI/PERL / Counters / Image and Text Based
+
+
+Free Page Counter - Counts Multiple Pages - Real Time Hits Display - Easy Copy & Paste into HTML Code - Graphic & Hidden Version - Cool Flash Interface
+
+--------------------------------------------------------------------------------
+
+
+
+e-Classifieds Free Edition 3.II - Hagen Software Inc.
+
+CGI/PERL / Classified Ads / General
+
+
+The e-Classifieds Free Edition allows you to quickly set up your own classifieds section using easily configurable categories and other variables. All pages are generated dynamically using your settings, so there is no need to manually edit any...
+ 
+ 
+  
+Home | Submit Code | Top Code Search | Last Code Search | Privacy Policy | Link to Us | Contact  
+  
+
+
+© Copyright 2000-2015 Source Code Online. Free Source Code and Scripts Downloads.
+
+
+ All files and free downloads are copyright of their respective owners. We do not provide any hacked, cracked, illegal, pirated version of scripts, codes, components downloads. All files are downloaded from the publishers website, our file servers or download mirrors. Always Virus check files downloaded from the web specially zip, rar, exe, trial, full versions etc. Download links from rapidshare, depositfiles, megaupload etc not published.  
+
+
+
+Argentum Online: Counter Strike 1.0 - Anti-cheat
+
+Tools / Servers
+
+AoCS es un proyecto en desarrollo que integra el modo de juego del Counter Strike en la Jugabilidad del Argentum.
+
+--------------------------------------------------------------------------------
+
+
+
+stats_CS: Statistics for... - Stats-cs
+
+Development / Front Ends
+
+
+stats_CS is a statistics generator for Counter-Strike
+
+--------------------------------------------------------------------------------
+
+
+
+CZ Bind Maker 1.0 - Bindmaker
+
+Tools / Build Tools
+
+
+CZ Bind Maker is a custom buy script and configuration editor for Counter-Strike 1.6, Condition Zero and Counter-Strike: Source. It provides point and click, buy scripting and configuration editing capabilities.
+
+--------------------------------------------------------------------------------
+
+
+
+CS:Source Admin 0.4.1 - ThorN
+
+PHP / Games
+
+
+a PHP web application for administering Counter-Strike: Source servers remotely.
+
+Current functions include player listing, kick, ban, temp ban, and sending message. It is password protected and allows moderators to admin without rcon.
+
+--------------------------------------------------------------------------------
+
+
+
+Recruitment Form Module 3.0 - The Empire Cartel
+
+PHP / Miscellaneous / phpBB Modules
+
+
+This is the Counter-Strike recruitment form for PHP-Nuke 7.x and up.The form has been converted to full PHP-Nuke module for easy management and installation. It has been completed coded in PHP to meet all the PHP-Nuke requirements.This module also...
+
+--------------------------------------------------------------------------------
+
+
+
+LAN Log Parser 0.1.alpha - Lanlogparser
+
+Development / Text Processing
+
+
+LAN log parser for counter-strike can be used to convert multiple names on log files to one name for every player.psychostats and HL stats don't work on LAN because of "wrong" WON IDs. and the nametrack doesn't work too, because of...
+
+--------------------------------------------------------------------------------
+
+
+
+gather scripts 1.0 - Gths
+
+Development / User Interfaces
+
+
+In this project I will insert already made and develop Counter-Strike Anti-Cheat and Gather Scripts using PHP, TCL.
+
+--------------------------------------------------------------------------------
+
+
+
+CzarQuery 1.00 - czaries
+
+PHP / File Manipulation / Utilities
+
+
+This is a software based on php where server informations can be retrieved by the visitors. This script gives the info about in what map the server runs, which mode it is running and who is playing. Features like Counter strike, day of defeat,...
+
+--------------------------------------------------------------------------------
+
+
+
+Webacces 0.2a - Antoine Delignat
+
+PHP / Games
+
+
+Webacces is an Open-Source project designed to administrate Half-Life & MODs game servers (now, only the mod Counter-Strike is supported) via a Web Interface.
+
+It's using an Admin Mod Plugin to get infos about the server and players,...
+
+--------------------------------------------------------------------------------
+
+
+
+phpUA 1.10b - B. Stumm
+
+PHP / Games
+
+
+phpUA is a PHP script that enables gaming server administrators to manage their servers via a website interface and to display server information including live statistics to the public. Plug-ins allow for game, language and website design...
+
+--------------------------------------------------------------------------------
+
+
+
+PopupMenuX 1.0 - Milika Delic
+
+Delphi / Menus
+
+
+Classic TPoupMenu with just one more extremly usefull method, OnClose. so we can now detect when menu closes with or without selectng anything.
+
+--------------------------------------------------------------------------------
+
+
+
+GameCP: Game Control Panel 2010 - William Bowman
+
+PHP / Server Management
+
+
+GameCP - Game Control Panel. Host unlimited users, games, voice servers and machines with a free trial of this Windows and Linux Game Server Control Panel
+
+A game hosting control panel to control game servers, voice servers and...
+
+--------------------------------------------------------------------------------
+
+
+
+ClanWeb 1.4.2 - E4Network
+
+PHP / Miscellaneous
+
+
+ClanWeb (CW) is created for esport clans that need a simple content management system (CMS) to their site. CW is totally free of charge and satisfies the needs that a clan might have.
+
+ClanWeb is based on the programming lanuage PHP and...
+
+--------------------------------------------------------------------------------
+
+
+
+ClanWeb for Scripts 1.4.2 - E4Network
+
+PHP / Miscellaneous
+
+
+ClanWeb (CW) is created for esport clans that need a simple content management system (CMS) to their site. CW is totally free of charge and satisfies the needs that a clan might have.
+
+ClanWeb is based on the programming lanuage PHP and...
+
+--------------------------------------------------------------------------------
+
+
+
+Live Game Server List Module 5.5 - Richard Perry
+
+PHP / Miscellaneous / phpBB Modules
+
+
+Live game server script(LGSL) is a very popular script among clan/gaming community. This script now can be integrated inside phpnuke CMS. The following is the latest version of this Live Game Server List which has been tested on PHP-Nuke, Phpnuke...
+
+--------------------------------------------------------------------------------
+
+
+
+Scintilla's WWW Access Counter 0.93 - VCL
+
+C/C++ / Access Counters / Graphical
+
+
+This counter counts the number of accesses to a certain page. It then displays an image corresponding to the number ...
+
+--------------------------------------------------------------------------------
+
+
+
+Practiline Source Code Line Counter 1.0 - Practiline Software
+
+Delphi / Tools
+
+
+Practiline Source Code Line Counter is a powerful source code line count software for developers and project managers. Ability to count code lines, comment lines and mixed code/comment lines in single files as well as entire directories. Preset...
+
+--------------------------------------------------------------------------------
+
+
+
+Extension to Python 3 Counter class  - Paddy McCarthy
+
+Python / Miscellaneous
+
+
+Adds symmetric difference and cartesian product to the Counter class. I had a use case for the former and Raymond H. asked about the latter so I coded the latter from its Wikipedia description.
+
+--------------------------------------------------------------------------------
+
+
+
+Apple-Style Flip Counter 1.0 - Chris Nanney
+
+JavaScript / Development Scripts
+
+
+My original post detailing how I recreated Appled-deOaos flip-style counter is a popular one, and I get many questions about how to properly implement it. It didnd-deOaot take long before I saw some shortcomings to the original technique I used,...
+
+--------------------------------------------------------------------------------
+
+
+
+THREE-FLIP-FLOP UP-DOWN COUNTER 1.0 - K. SUBRAMANIAN
+
+Tools / Development Tools
+
+
+It is useful to have a counter which can count in an upward sequence as well as in a downward sequence. Here is a Three-Flip-Flop Up-Down Counter which has this provision designed using J-K Flip-Flops available in Simulink.
+ 
+Source Code Online Home Categories Top Code New Code Submit Code 
+  
+
+
+Search
+
+
+
+
+ 
+ 
+
+
+
+New Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+
+Delphi
+
+
+ Accounting [27]  Bars [42]  BDE Alternatives [38] 
+ Buttons [82]  Catalogs [23]  Charts [38] 
+ Common Controls [194]  Components Collection [335]  Compression, Encryption [204] 
+ Data-Aware Controls [9]  DataBase - Misc. [467]  Date and Time [68] 
+ Desktop [37]  Dialogs [74]  Direct Data access [80] 
+ Editors [181]  Files and Drives [170]  Form Enhancement [109] 
+ From Borland [17]  Games [36]  Graphical Controls [256] 
+ Grids [58]  Help Tools [48]  I/O Communication [9] 
+ Image Processing [10]  Improved Components [6]  Indicators and Gauges [21] 
+ Installation Tools [77]  InVisible Components [34]  Labels [70] 
+ Libraries [29]  List and Combo Boxes [68]  Localization and Spell Check [26] 
+ Math, Statistics, Algorithms [43]  Menus [38]  Messaging [5] 
+ Miscellaneous [214]  Multimedia [235]  Other [105] 
+ Panels [26]  Printing & Reporting [145]  Project [47] 
+ Samples [68]  Science [44]  Sound & MIDI [16] 
+ Strings [3]  System Components [271]  Tabbed Components [15] 
+ Telephony & Communications [123]  Tools [659]  Visible Components [82] 
+ Winsock & Internet [343] 
+ 
+ 
+
+All | Freeware 
+
+Code 1-12 of 12    
+
+
+  
+
+
+
+
+
+FastReport 5.2 - Fast Reports Inc.
+
+Delphi
+
+FastReport VCL is an add-on component that allows your application to generate reports quickly and efficiently. FastReport provides all the necessary tools to develop reports, including a visual report designer, a reporting core, and a preview window. It can be used in the Embarcadero Delphi 4-XE2, Embarcadero C++Builder 6-XE2 and Embarcadero RAD Studio environments. 
+Features of FastReport VCL:
+
+- Advanced report designer
+
+--------------------------------------------------------------------------------
+
+
+
+CAD Import VCL 9.1 - CADSoftTools
+
+Delphi
+
+
+CAD Import VCL is a source code provided library for managing CAD files in Delphi and C++ Builder. Most of the known 2D and 3D vector formats are supported, including AutoCAD DXF/DWG 2013.
+
+The software provides easy access to entities...
+
+--------------------------------------------------------------------------------
+
+
+
+CAD Export VCL 9.1 - CADSoftTools
+
+Delphi
+
+
+CAD Export VCL is a source code provided library for adding export to CAD formats in Delphi and C++ Builder applications. AutoCAD DWG/DXF, HPGL/HPGL2/PLT, CGM, SVG, PDF, SWF export formats are supported. Along with a direct export, the library...
+
+--------------------------------------------------------------------------------
+
+
+
+Collection of Delphi examples by... - Software Pr ISV
+
+Delphi
+
+
+Collection of Delphi examples and applications with full source code and project files.
+
+--------------------------------------------------------------------------------
+
+
+
+FastCube 1.9 - Fast Reports, Inc.
+
+Delphi
+
+
+FastCube is a handy tool for efficient analytical data arrays handling.
+FastCube usage for report building does not require a programmer's high skill level.
+Build FastCube into your applications created in Delphi or Lazarus...
+
+--------------------------------------------------------------------------------
+
+
+
+CAD Import VCL 8.0 - CADSoftTools
+
+Delphi
+
+
+CAD Import VCL is a high-quality multi-functional source code provided component for using in Delphi/C++Builder applications. Support of more than 30 both raster and vector formats is provided, including AutoCAD DWG, DXF, DWF, Hewlett-Packard...
+
+--------------------------------------------------------------------------------
+
+
+
+Host Integration Pack for Delphi XE... - Cybele Software Inc.
+
+Delphi
+
+
+TN BRIDGE Host Integration Pack (Version 3.5) is a set of components and productivity tools to extend and take advantage of already developed and tested screen-oriented host applications. It provides full connectivity to IBM S/390 and AS/400...
+
+--------------------------------------------------------------------------------
+
+
+
+TN BRIDGE Host Integration Pack for... - Cybele Software Inc.
+
+Delphi
+
+
+TN BRIDGE Host Integration Pack (Version 3.5) is a set of components and productivity tools to extend and take advantage of already developed and tested screen-oriented host applications. It provides full connectivity to IBM S/390 and AS/400...
+
+--------------------------------------------------------------------------------
+
+
+
+TN BRIDGE Host Integration Pack for... - Cybele Software Inc.
+
+Delphi
+
+
+TN BRIDGE Host Integration Pack (Version 3.5) is a set of components and productivity tools to extend and take advantage of already developed and tested screen-oriented host applications. It provides full connectivity to IBM S/390 and AS/400...
+
+--------------------------------------------------------------------------------
+
+
+
+RichView (Delphi version) 12.0.4 - Sergey Tkachenko
+
+Delphi
+
+
+RichView is a suite of native Delphi/C++Builder components for displaying, editing and printing hypertext documents.
+Components support various character attributes (fonts, subscripts/superscripts, colored text background, custom drawn)....
+
+--------------------------------------------------------------------------------
+
+
+
+ATPrintPreview 1.3.0 - Alexey Torgashin
+
+Delphi
+
+
+ATPrintPreview component allows to quickly implement "Print preview" dialog for image viewing applications. You can call preview form for a TBitmap/TImage with a single function call. 
+
+On this form user can change some options...
+
+--------------------------------------------------------------------------------
+
+
+
+AVLock SIMPLE 2.1 - AV-Soft
+
+Delphi
+
+
+If you are a Delphi programmer and need to market your software securely, and you want that your potential customers evaluate your products before to buy them, probably AVLock SIMPLE would be the solution that you were wanted for.
+
+Also,...
+ 
+ 
+  
+Home | Submit Code | Top Code Search | Last Code Search | Privacy Policy | Link to Us | Contact | Software Download  
+  
+
+
+© Copyright 2000-2015 Source Code Online. Free Source Code and Scripts Downloads.
+
+
+ All files and free downloads are copyright of their respective owners. We do not provide any hacked, cracked, illegal, pirated version of scripts, codes, components downloads. All files are downloaded from the publishers website, our file servers or download mirrors. Always Virus check files downloaded from the web specially zip, rar, exe, trial, full versions etc. Download links from rapidshare, depositfiles, megaupload etc not published.  
+ 
+Source Code Online Home Categories Top Code New Code Submit Code 
+  
+
+
+Search
+
+
+
+
+ 
+ 
+
+
+
+New Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+Top Code
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+
+Delphi
+
+
+ Accounting [27]  Bars [42]  BDE Alternatives [38] 
+ Buttons [82]  Catalogs [23]  Charts [38] 
+ Common Controls [194]  Components Collection [335]  Compression, Encryption [204] 
+ Data-Aware Controls [9]  DataBase - Misc. [467]  Date and Time [68] 
+ Desktop [37]  Dialogs [74]  Direct Data access [80] 
+ Editors [181]  Files and Drives [170]  Form Enhancement [109] 
+ From Borland [17]  Games [36]  Graphical Controls [256] 
+ Grids [58]  Help Tools [48]  I/O Communication [9] 
+ Image Processing [10]  Improved Components [6]  Indicators and Gauges [21] 
+ Installation Tools [77]  InVisible Components [34]  Labels [70] 
+ Libraries [29]  List and Combo Boxes [68]  Localization and Spell Check [26] 
+ Math, Statistics, Algorithms [43]  Menus [38]  Messaging [5] 
+ Miscellaneous [214]  Multimedia [235]  Other [105] 
+ Panels [26]  Printing & Reporting [145]  Project [47] 
+ Samples [68]  Science [44]  Sound & MIDI [16] 
+ Strings [3]  System Components [271]  Tabbed Components [15] 
+ Telephony & Communications [123]  Tools [659]  Visible Components [82] 
+ Winsock & Internet [343] 
+ 
+ 
+
+All | Freeware 
+
+Code 1-12 of 12    
+
+
+  
+
+
+
+
+
+FastReport 5.2 - Fast Reports Inc.
+
+Delphi
+
+FastReport VCL is an add-on component that allows your application to generate reports quickly and efficiently. FastReport provides all the necessary tools to develop reports, including a visual report designer, a reporting core, and a preview window. It can be used in the Embarcadero Delphi 4-XE2, Embarcadero C++Builder 6-XE2 and Embarcadero RAD Studio environments. 
+Features of FastReport VCL:
+
+- Advanced report designer
+
+--------------------------------------------------------------------------------
+
+
+
+CAD Import VCL 9.1 - CADSoftTools
+
+Delphi
+
+
+CAD Import VCL is a source code provided library for managing CAD files in Delphi and C++ Builder. Most of the known 2D and 3D vector formats are supported, including AutoCAD DXF/DWG 2013.
+
+The software provides easy access to entities...
+
+--------------------------------------------------------------------------------
+
+
+
+CAD Export VCL 9.1 - CADSoftTools
+
+Delphi
+
+
+CAD Export VCL is a source code provided library for adding export to CAD formats in Delphi and C++ Builder applications. AutoCAD DWG/DXF, HPGL/HPGL2/PLT, CGM, SVG, PDF, SWF export formats are supported. Along with a direct export, the library...
+
+--------------------------------------------------------------------------------
+
+
+
+Collection of Delphi examples by... - Software Pr ISV
+
+Delphi
+
+
+Collection of Delphi examples and applications with full source code and project files.
+
+--------------------------------------------------------------------------------
+
+
+
+FastCube 1.9 - Fast Reports, Inc.
+
+Delphi
+
+
+FastCube is a handy tool for efficient analytical data arrays handling.
+FastCube usage for report building does not require a programmer's high skill level.
+Build FastCube into your applications created in Delphi or Lazarus...
+
+--------------------------------------------------------------------------------
+
+
+
+CAD Import VCL 8.0 - CADSoftTools
+
+Delphi
+
+
+CAD Import VCL is a high-quality multi-functional source code provided component for using in Delphi/C++Builder applications. Support of more than 30 both raster and vector formats is provided, including AutoCAD DWG, DXF, DWF, Hewlett-Packard...
+
+--------------------------------------------------------------------------------
+
+
+
+Host Integration Pack for Delphi XE... - Cybele Software Inc.
+
+Delphi
+
+
+TN BRIDGE Host Integration Pack (Version 3.5) is a set of components and productivity tools to extend and take advantage of already developed and tested screen-oriented host applications. It provides full connectivity to IBM S/390 and AS/400...
+
+--------------------------------------------------------------------------------
+
+
+
+TN BRIDGE Host Integration Pack for... - Cybele Software Inc.
+
+Delphi
+
+
+TN BRIDGE Host Integration Pack (Version 3.5) is a set of components and productivity tools to extend and take advantage of already developed and tested screen-oriented host applications. It provides full connectivity to IBM S/390 and AS/400...
+
+--------------------------------------------------------------------------------
+
+
+
+TN BRIDGE Host Integration Pack for... - Cybele Software Inc.
+
+Delphi
+
+
+TN BRIDGE Host Integration Pack (Version 3.5) is a set of components and productivity tools to extend and take advantage of already developed and tested screen-oriented host applications. It provides full connectivity to IBM S/390 and AS/400...
+
+--------------------------------------------------------------------------------
+
+
+
+RichView (Delphi version) 12.0.4 - Sergey Tkachenko
+
+Delphi
+
+
+RichView is a suite of native Delphi/C++Builder components for displaying, editing and printing hypertext documents.
+Components support various character attributes (fonts, subscripts/superscripts, colored text background, custom drawn)....
+
+--------------------------------------------------------------------------------
+
+
+
+ATPrintPreview 1.3.0 - Alexey Torgashin
+
+Delphi
+
+
+ATPrintPreview component allows to quickly implement "Print preview" dialog for image viewing applications. You can call preview form for a TBitmap/TImage with a single function call. 
+
+On this form user can change some options...
+
+--------------------------------------------------------------------------------
+
+
+
+AVLock SIMPLE 2.1 - AV-Soft
+
+Delphi
+
+
+If you are a Delphi programmer and need to market your software securely, and you want that your potential customers evaluate your products before to buy them, probably AVLock SIMPLE would be the solution that you were wanted for.
+
+Also,...
+ 
+ 
+  
+Home | Submit Code | Top Code Search | Last Code Search | Privacy Policy | Link to Us | Contact | Software Download  
+  
+
+
+© Copyright 2000-2015 Source Code Online. Free Source Code and Scripts Downloads.
+
+
+ All files and free downloads are copyright of their respective owners. We do not provide any hacked, cracked, illegal, pirated version of scripts, codes, components downloads. All files are downloaded from the publishers website, our file servers or download mirrors. Always Virus check files downloaded from the web specially zip, rar, exe, trial, full versions etc. Download links from rapidshare, depositfiles, megaupload etc not published.  
